@@ -14,4 +14,7 @@ body {
     --font-fancy: "Old Standard TT", serif;
     --font-body: "Roboto", serif;
     --font-display: "Exo 2", serif;
+    --color-accent: oklch(0.905 0.182 98.111);
+    --color-secondary-text: oklch(0.707 0.022 261.325);
+    --color-accent-hover: oklch(0.945 0.129 101.54)
 }
